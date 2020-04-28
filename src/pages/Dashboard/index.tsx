@@ -1,3 +1,4 @@
+/* eslint-disable object-curly-newline */
 /* eslint-disable camelcase */
 import React, { useState, FormEvent, useEffect } from 'react';
 import { FiChevronRight } from 'react-icons/fi';
@@ -52,9 +53,11 @@ const Dashboard: React.FC = () => {
       const repository = data;
 
       setRepositories([...repositories, repository]);
+      setInputError('');
       setNewRepo('');
     } catch (err) {
       setInputError('Erro na busca por esse repositório');
+      setNewRepo('');
     }
   }
 
