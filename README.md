@@ -40,7 +40,7 @@
   </a>
 </p>
 
-## 🛠 Technologies
+## :tools: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
@@ -55,7 +55,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 ## :information_source: How To Use
 
-To clone and run this application, you can use [Git](https://git-scm.com), [Node.js v12.16.0][nodejs] or higher + [Yarn v1.22.0][yarn] or higher installed on your computer. You are also using [Insomnia](https://insomnia.rest) or a similar one installed to test the API via routes. On your command line:
+To clone and run this application, you can use [Git](https://git-scm.com), [Node.js v12.16.0][nodejs] or higher + [Yarn v1.22.0][yarn] or higher installed on your computer. On your command line:
 
 ```bash
 # Clone this repository
