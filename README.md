@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Github Explorer" src="https://github.com/Wellios/Github-Explorer/blob/master/src/assets/logo.svg" />
+    <img width="50%" alt="Github Explorer" src="https://github.com/Wellios/Github-Explorer/blob/master/src/assets/logo.svg" />
     <br><br>
     Github Explorer
 </h1>
@@ -40,18 +40,26 @@
   </a>
 </p>
 
-## :tools: Technologies
+<h1 align="center">
+  <img align="center" width="45%" src="https://github.com/Wellios/Github-Explorer/blob/master/src/assets/dashboard.png" alt="Repositories Screen"/>
+
+  <img align="center" width="45%" src="https://github.com/Wellios/Github-Explorer/blob/master/src/assets/issues.png" alt="Issues Screen"/>
+</h1>
+
+<hr>
+
+## :hammer_and_wrench: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
-- [Typescript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org/)
-- [React Router](https://github.com/ReactTraining/react-router)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [Axios](https://github.com/axios/axios)
-- [Styled Components](https://styled-components.com/)
-- [Polished](https://polished.js.org/)
-- [VS Code][vc] with [EditorConfig][vceditconfig], [ESLint][vceslint] and [Prettier][vcprettier]
+-  [Typescript](https://www.typescriptlang.org/)
+-  [ReactJS](https://reactjs.org/)
+-  [React Router](https://github.com/ReactTraining/react-router)
+-  [React Icons](https://react-icons.github.io/react-icons/)
+-  [Axios](https://github.com/axios/axios)
+-  [Styled Components](https://styled-components.com/)
+-  [Polished](https://polished.js.org/)
+-  [VS Code][vc] with [EditorConfig][vceditconfig], [ESLint][vceslint] and [Prettier][vcprettier]
 
 ## :information_source: How To Use
 
