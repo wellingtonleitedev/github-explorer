@@ -50,6 +50,8 @@
 
 ## :hammer_and_wrench: Technologies
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a1eec01a9db4cf1ad802051ca4b9ece)](https://app.codacy.com/manual/Wellios/Github-Explorer?utm_source=github.com&utm_medium=referral&utm_content=Wellios/Github-Explorer&utm_campaign=Badge_Grade_Dashboard)
+
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
 -   [Typescript](https://www.typescriptlang.org/)
