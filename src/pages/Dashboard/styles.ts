@@ -26,7 +26,7 @@ export const Form = styled.form<FormProps>`
     height: 70px;
     padding: 0 24px;
 
-    ${(props) =>
+    ${props =>
       props.hasError &&
       css`
         border-color: #c53030;
