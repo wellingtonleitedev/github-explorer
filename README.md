@@ -21,9 +21,9 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/wellios/github-explorer.svg">
   </a>
   
-  <!--<a href="https://app.codacy.com/manual/Wellios/nodejs-conceitos?utm_source=github.com&utm_medium=referral&utm_content=Wellios/nodejs-conceitos&utm_campaign=Badge_Grade_Dashboard">
-    <img src="https://api.codacy.com/project/badge/Grade/1b49a63a3ec043e192147f2bb97fbb45"/>
-  </a>-->
+  <a href="https://app.codacy.com/manual/Wellios/Github-Explorer?utm_source=github.com&utm_medium=referral&utm_content=Wellios/Github-Explorer&utm_campaign=Badge_Grade_Dashboard">
+    <img src="https://api.codacy.com/project/badge/Grade/2a1eec01a9db4cf1ad802051ca4b9ece"/>
+  </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/wellios/github-explorer.svg">
 </p>
@@ -46,11 +46,14 @@
   <img align="center" width="45%" src="https://github.com/Wellios/Github-Explorer/blob/master/src/assets/issues.png" alt="Issues Screen"/>
 </h1>
 
-<hr>
+<p align="center">
+  <a href="https://www.loom.com/share/07b4299951c345589f48bd422d0e447f">
+    <img width="20%" src="https://www.loom.com/assets/img/og/loom-banner.png" />
+  </a>
+</p>
+<h3 align="center">Video Demo on Loom.</h3>
 
 ## :hammer_and_wrench: Technologies
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a1eec01a9db4cf1ad802051ca4b9ece)](https://app.codacy.com/manual/Wellios/Github-Explorer?utm_source=github.com&utm_medium=referral&utm_content=Wellios/Github-Explorer&utm_campaign=Badge_Grade_Dashboard)
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
