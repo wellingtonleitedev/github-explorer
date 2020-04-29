@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://www.loom.com/share/07b4299951c345589f48bd422d0e447f">
-    <img width="20%" src="https://www.loom.com/assets/img/og/loom-banner.png" />
+    <img width="20%" src="https://i.pinimg.com/originals/51/c5/2c/51c52cb5156376f013275fa1f5753b7c.png" />
   </a>
 </p>
 <h3 align="center">Video Demo on Loom.</h3>
